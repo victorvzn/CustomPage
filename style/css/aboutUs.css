@@ -1,0 +1,489 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,600,600italic,700,700italic,300italic,300,400italic);
+@import url(https://fonts.googleapis.com/css?family=Vollkorn:400,400italic,700,700italic);
+/* line 16, ../scss/_global.scss */
+html {
+  font-family: 'Open Sans', sans-serif;
+}
+
+/* line 20, ../scss/_global.scss */
+h2 {
+  font-family: 'Vollkorn', sans-serif;
+}
+
+/* line 25, ../scss/_global.scss */
+a {
+  color: #bd835d;
+}
+/* line 28, ../scss/_global.scss */
+a:hover, a:focus {
+  color: #7c553c;
+  text-decoration: none;
+}
+
+/* line 35, ../scss/_global.scss */
+.brown {
+  color: #bd835d;
+}
+
+/* line 39, ../scss/_global.scss */
+.underlined {
+  text-decoration: underline;
+}
+
+/* line 43, ../scss/_global.scss */
+.selected {
+  color: #7c553c;
+  text-decoration: none;
+}
+
+/* line 48, ../scss/_global.scss */
+.content {
+  height: 100%;
+}
+
+/* line 52, ../scss/_global.scss */
+.hidden {
+  opacity: 0;
+}
+
+/* line 56, ../scss/_global.scss */
+.visible {
+  opacity: 1;
+}
+
+/* line 60, ../scss/_global.scss */
+.mr0 {
+  margin-right: 0px;
+}
+
+/* line 61, ../scss/_global.scss */
+.mr10 {
+  margin-right: 10px;
+}
+
+/* line 62, ../scss/_global.scss */
+.mr15 {
+  margin-right: 15px;
+}
+
+/* line 63, ../scss/_global.scss */
+.mr20 {
+  margin-right: 20px;
+}
+
+/* line 64, ../scss/_global.scss */
+.mr30 {
+  margin-right: 30px;
+}
+
+/* line 65, ../scss/_global.scss */
+.mr40 {
+  margin-right: 40px;
+}
+
+/* line 66, ../scss/_global.scss */
+.mr50 {
+  margin-right: 50px;
+}
+
+/* line 68, ../scss/_global.scss */
+.ml0 {
+  margin-left: 0px;
+}
+
+/* line 69, ../scss/_global.scss */
+.ml10 {
+  margin-left: 10px;
+}
+
+/* line 70, ../scss/_global.scss */
+.ml15 {
+  margin-left: 15px;
+}
+
+/* line 71, ../scss/_global.scss */
+.ml20 {
+  margin-left: 20px;
+}
+
+/* line 72, ../scss/_global.scss */
+.ml30 {
+  margin-left: 30px;
+}
+
+/* line 73, ../scss/_global.scss */
+.ml40 {
+  margin-left: 40px;
+}
+
+/* line 74, ../scss/_global.scss */
+.ml50 {
+  margin-left: 50px;
+}
+
+/* line 76, ../scss/_global.scss */
+.mt0 {
+  margin-top: 0px;
+}
+
+/* line 77, ../scss/_global.scss */
+.mt10 {
+  margin-top: 10px;
+}
+
+/* line 78, ../scss/_global.scss */
+.mt15 {
+  margin-top: 15px;
+}
+
+/* line 79, ../scss/_global.scss */
+.mt20 {
+  margin-top: 20px;
+}
+
+/* line 80, ../scss/_global.scss */
+.mt30 {
+  margin-top: 30px;
+}
+
+/* line 81, ../scss/_global.scss */
+.mt40 {
+  margin-top: 40px;
+}
+
+/* line 82, ../scss/_global.scss */
+.mt50 {
+  margin-top: 50px;
+}
+
+/* line 83, ../scss/_global.scss */
+.mt60 {
+  margin-top: 60px;
+}
+
+/* line 84, ../scss/_global.scss */
+.mt70 {
+  margin-top: 70px;
+}
+
+/* line 85, ../scss/_global.scss */
+.mt80 {
+  margin-top: 80px;
+}
+
+/* line 86, ../scss/_global.scss */
+.mt90 {
+  margin-top: 90px;
+}
+
+/* line 87, ../scss/_global.scss */
+.mt100 {
+  margin-top: 100px;
+}
+
+/* line 88, ../scss/_global.scss */
+.mt110 {
+  margin-top: 110px;
+}
+
+/* line 89, ../scss/_global.scss */
+.mt120 {
+  margin-top: 120px;
+}
+
+/* line 91, ../scss/_global.scss */
+.mb0 {
+  margin-bottom: 0px;
+}
+
+/* line 92, ../scss/_global.scss */
+.mb10 {
+  margin-bottom: 10px;
+}
+
+/* line 93, ../scss/_global.scss */
+.mb20 {
+  margin-bottom: 20px;
+}
+
+/* line 94, ../scss/_global.scss */
+.mb25 {
+  margin-bottom: 25px;
+}
+
+/* line 95, ../scss/_global.scss */
+.mb30 {
+  margin-bottom: 30px;
+}
+
+/* line 96, ../scss/_global.scss */
+.mb40 {
+  margin-bottom: 40px;
+}
+
+/* line 97, ../scss/_global.scss */
+.mb50 {
+  margin-bottom: 50px;
+}
+
+/* line 98, ../scss/_global.scss */
+.mb60 {
+  margin-bottom: 60px;
+}
+
+/* line 99, ../scss/_global.scss */
+.mb70 {
+  margin-bottom: 70px;
+}
+
+/* line 100, ../scss/_global.scss */
+.mb80 {
+  margin-bottom: 80px;
+}
+
+/* line 101, ../scss/_global.scss */
+.mb90 {
+  margin-bottom: 90px;
+}
+
+/* line 102, ../scss/_global.scss */
+.mb100 {
+  margin-bottom: 100px;
+}
+
+/* line 104, ../scss/_global.scss */
+.pt0 {
+  padding-top: 0px;
+}
+
+/* line 105, ../scss/_global.scss */
+.pt10 {
+  padding-top: 10px;
+}
+
+/* line 106, ../scss/_global.scss */
+.pt15 {
+  padding-top: 15px;
+}
+
+/* line 107, ../scss/_global.scss */
+.pt20 {
+  padding-top: 20px;
+}
+
+/* line 108, ../scss/_global.scss */
+.pt30 {
+  padding-top: 30px;
+}
+
+/* line 109, ../scss/_global.scss */
+.pt40 {
+  padding-top: 40px;
+}
+
+/* line 110, ../scss/_global.scss */
+.pt50 {
+  padding-top: 50px;
+}
+
+/* line 111, ../scss/_global.scss */
+.pt60 {
+  padding-top: 60px;
+}
+
+/* line 112, ../scss/_global.scss */
+.pt70 {
+  padding-top: 70px;
+}
+
+/* line 113, ../scss/_global.scss */
+.pt80 {
+  padding-top: 80px;
+}
+
+/* line 114, ../scss/_global.scss */
+.pt90 {
+  padding-top: 90px;
+}
+
+/* line 115, ../scss/_global.scss */
+.pt100 {
+  padding-top: 100px;
+}
+
+/* line 116, ../scss/_global.scss */
+.pt110 {
+  padding-top: 110px;
+}
+
+/* line 117, ../scss/_global.scss */
+.pt120 {
+  padding-top: 120px;
+}
+
+/* line 119, ../scss/_global.scss */
+.pb0 {
+  padding-bottom: 0px;
+}
+
+/* line 120, ../scss/_global.scss */
+.pb10 {
+  padding-bottom: 10px;
+}
+
+/* line 121, ../scss/_global.scss */
+.pb20 {
+  padding-bottom: 20px;
+}
+
+/* line 122, ../scss/_global.scss */
+.pb25 {
+  padding-bottom: 25px;
+}
+
+/* line 123, ../scss/_global.scss */
+.pb30 {
+  padding-bottom: 30px;
+}
+
+/* line 124, ../scss/_global.scss */
+.pb40 {
+  padding-bottom: 40px;
+}
+
+/* line 125, ../scss/_global.scss */
+.pb50 {
+  padding-bottom: 50px;
+}
+
+/* line 126, ../scss/_global.scss */
+.pb60 {
+  padding-bottom: 60px;
+}
+
+/* line 127, ../scss/_global.scss */
+.pb70 {
+  padding-bottom: 70px;
+}
+
+/* line 128, ../scss/_global.scss */
+.pb80 {
+  padding-bottom: 80px;
+}
+
+/* line 129, ../scss/_global.scss */
+.pb90 {
+  padding-bottom: 90px;
+}
+
+/* line 130, ../scss/_global.scss */
+.pb100 {
+  padding-bottom: 100px;
+}
+
+/* line 132, ../scss/_global.scss */
+.display-inline {
+  display: inline-block;
+  float: none;
+  vertical-align: middle;
+  width: 49%;
+}
+@media (max-width: 767px) {
+  /* line 132, ../scss/_global.scss */
+  .display-inline {
+    width: 100%;
+  }
+}
+
+/* line 143, ../scss/_global.scss */
+.hidden-div {
+  opacity: 0;
+}
+
+/* line 147, ../scss/_global.scss */
+.visible-div {
+  opacity: 1;
+}
+
+/* line 151, ../scss/_global.scss */
+.center-margin {
+  margin: 0 auto;
+  width: 80%;
+}
+
+/* line 12, ../scss/aboutUs.scss */
+.about-container .content h2 {
+  font-size: 32px;
+}
+/* line 16, ../scss/aboutUs.scss */
+.about-container .content img {
+  border: 1px solid #fff;
+  height: auto;
+  margin: 60px auto;
+  position: relative;
+  width: 300px;
+}
+/* line 23, ../scss/aboutUs.scss */
+.about-container .content img:before {
+  border: 1px solid #000;
+  content: '';
+  width: 198px;
+  height: 198px;
+  position: absolute;
+}
+/* line 31, ../scss/aboutUs.scss */
+.about-container .content img:after {
+  content: '';
+  position: absolute;
+  width: 196px;
+  height: 196px;
+  border: 1px solid #000;
+  left: 1px;
+  top: 1px;
+}
+@media (max-width: 767px) {
+  /* line 16, ../scss/aboutUs.scss */
+  .about-container .content img {
+    width: 60%;
+    height: auto;
+  }
+}
+/* line 45, ../scss/aboutUs.scss */
+.about-container .content .text-container {
+  padding: 0px 20px;
+}
+/* line 48, ../scss/aboutUs.scss */
+.about-container .content .text-container img {
+  -webkit-box-shadow: 0px 7px 5px 5px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 7px 5px 5px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 7px 5px 5px rgba(0, 0, 0, 0.75);
+}
+@media (max-width: 767px) {
+  /* line 54, ../scss/aboutUs.scss */
+  .about-container .content .content-text {
+    padding-bottom: 60px;
+  }
+}
+/* line 61, ../scss/aboutUs.scss */
+.about-container .content .odd {
+  background-color: #7c553c;
+  color: #fff;
+}
+@media (max-width: 767px) {
+  /* line 65, ../scss/aboutUs.scss */
+  .about-container .content .odd .content-text {
+    padding-bottom: 0px;
+    padding-top: 60px;
+  }
+}
+/* line 77, ../scss/aboutUs.scss */
+.about-container .contact .contact-container {
+  background: linear-gradient(black, rgba(0, 0, 0, 0.3)), url("/images/wallpaper.jpg");
+  background-position: center top;
+}
+/* line 81, ../scss/aboutUs.scss */
+.about-container .contact .contact-container .information {
+  color: #fff;
+}
+
+/*# sourceMappingURL=aboutUs.css.map */
