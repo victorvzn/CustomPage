@@ -1,0 +1,15 @@
+var app = angular.module('customPage');
+
+app.directive('textDirective', function(textService){
+  return {
+    restrict: "E",
+    templateUrl: 'js/templates/textDirective.html',
+    controller : function ($scope,$timeout){
+      $scope.textList = {};
+      var promise = textService.getText();
+      promise.then(function(data) {
+          $scope.textList = data.data;
+      });
+    }
+  }
+});
