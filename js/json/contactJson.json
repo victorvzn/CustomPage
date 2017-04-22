@@ -1,0 +1,15 @@
+[{
+  "text" : "",
+  "class" : "",
+  "img" : "",
+  "title" : "Direct Contact",
+  "contact_info": {
+    "phones": [
+      { "usa": "+1 111 9211111" },
+      { "arg": "+54 0223 1111111" }
+    ],
+    "email": "hello@test.net",
+    "address": "Mar Del Plata, Argentina"
+  }
+}]
+

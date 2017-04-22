@@ -1,18 +1,18 @@
 <div class="text-center contact-container mt40 pt40 pb40">
-  <h2 class="text-center brown underlined pb40">Direct Contact</h2>
+  <h2 class="text-center brown underlined pb40"></h2>
   <div class="information">
     <h2 class="mb20">Phone</h2>
     <div class="mb20">
-      <p class="mb10">USA Toll Free: +1 111 9211111 </p>
-      <p>ARG Phone: +54 0223 1111111</p>
+      <p class="mb10">USA Toll Free: {{contactList.contact_info.phones[0].usa}}</p>
+      <p>ARG Phone: {{contactList.contact_info.phones[1].arg}}</p>
     </div>
     <h2 class="mb20">Email</h2>
     <div class="mb20">
-      <a href="mailto:hello@test.net">hello@test.net</a>
+      <a href="mailto:{{contactList.contact_info.email}}">{{contactList.contact_info.email}}</a>
     </div>
     <h2 class="mb20">Adress</h2>
     <div>
-      <p>Mar Del Plata, Argentina</p>
+      <p>{{contactList.contact_info.address}}</p>
     </div>
   </div>
 </div>
