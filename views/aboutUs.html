@@ -30,15 +30,19 @@
     </div>
   </div>
 
-  <div class="content who" ng-show="about.selected === 0">
-    <who-directive></who-directive>
+  <div class="content who" ng-if="about.selected === 0">
+    <subpage-directive template="who"></subpage-directive>
   </div>
 
-  <div class="content speciality" ng-show="about.selected === 1">
-    <especiality-directive></especiality-directive>
+  <div class="content speciality" ng-if="about.selected === 1">
+    <subpage-directive template="especiality"></subpage-directive>
   </div>
 
-  <div class="content contact" ng-show="about.selected === 3">
-    <contact-directive></contact-directive>
+  <div class="content speciality" ng-if="about.selected === 2">
+    <subpage-directive template="where"></subpage-directive>
+  </div>
+
+  <div class="content contact" ng-if="about.selected === 3">
+    <subpage-directive template="contact"></subpage-directive>
   </div>
 </div>

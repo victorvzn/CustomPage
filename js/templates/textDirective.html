@@ -1,5 +1,5 @@
 <div ng-repeat="text in textList">
-  <div ng-class= "{'odd' : text.class == 'odd'}" class="post text-container">
+  <div ng-class= "{'odd' : text.class === 'odd'}" class="post text-container">
     <div class="row center-margin">
       <div ng-if = "text.class === 'normal'">
         <div class="display-inline text-center">

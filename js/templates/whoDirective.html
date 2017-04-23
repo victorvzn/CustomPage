@@ -1,21 +1,21 @@
-<div ng-repeat="who in whoList">
-  <div ng-class= "{'odd' : who.class == 'odd'}" class="text-container">
-    <h2 class="mt40 pt40 text-center">{{who.title}}</h2>
+<div ng-repeat="data in dataList">
+  <div ng-class= "{'odd' : data.class == 'odd'}" class="text-container">
+    <h2 class="mt40 pt40 text-center">{{data.title}}</h2>
     <div class="row center-margin">
-      <div ng-if = "who.class === 'normal'">
+      <div ng-if = "data.class === 'normal'">
         <div class="display-inline text-center">
-          <img  ng-src="images/{{who.img}}" alt="{{who.alt}}" />
+          <img  ng-src="images/{{data.img}}" alt="{{data.alt}}" />
         </div>
         <div class="display-inline text-center content-text">
-          <p>{{who.text}}</p>
+          <p>{{data.text}}</p>
         </div>
       </div>
-      <div ng-if = "who.class === 'odd'">
+      <div ng-if = "data.class === 'odd'">
         <div class="display-inline text-center content-text">
-          <p>{{who.text}}</p>
+          <p>{{data.text}}</p>
         </div>
         <div class="display-inline text-center">
-          <img  ng-src="images/{{who.img}}" alt="{{who.alt}}" />
+          <img  ng-src="images/{{data.img}}" alt="{{data.alt}}" />
         </div>
       </div>
     </div>
