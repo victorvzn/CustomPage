@@ -1,19 +1,19 @@
 [{
-  "text" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "text" : "En CafeStore queremos que disfrutes del mejor café en tu casa. Ya sea un intenso espresso, un aromático dripper o un equilibrado aeropress, todo lo que necesitas está aquí.",
   "class" : "odd",
-  "img" : "happy-face.jpg",
+  "img" : "coffee.jpg",
   "title" : "Who We Are",
-  "alt": "happy-face"
+  "alt": "coffee"
 },{
-  "text" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "text" : "Hemos seleccionado con dedicación los productos que te ofrecemos: máquinas italianas de espresso; molinos italianos y españoles; dripper japoneses y aeropress desde USA.",
   "class" : "normal",
-  "img" : "Coffee-Love.jpg",
+  "img" : "coffee-3.jpg",
   "title" : "The Best In Class",
-  "alt": "Coffee-Love"
+  "alt": "coffee-3"
 },{
-  "text" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "text" : "Y si lo tuyo es el té, no nos hemos olvidado de ti. Contamos con una completa línea de té gourmet y accesorios.",
   "class" : "odd",
-  "img" : "happy-face.jpg",
+  "img" : "coffee-5.jpg",
   "title" : "All Kinds Of Coffe",
-  "alt": "happy-face"
+  "alt": "coffee-5"
 }]

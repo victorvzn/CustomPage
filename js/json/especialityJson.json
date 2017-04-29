@@ -1,19 +1,19 @@
 [{
-  "text" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "text" : "Cada origen, cada varietal y cada cosecha son únicos y, por lo tanto, deben tostarse de manera específica e independiente. Esto nos garantiza que los sabores naturales de cada café son respetados y realzados, permitiéndonos alcanzar el punto ideal de cada uno de ellos.",
   "class" : "odd",
-  "img" : "happy-face.jpg",
+  "img" : "coffee-4.jpg",
   "title" : "Coffe Of Course !!",
-  "alt" : "happy-face"
+  "alt" : "coffee-4"
 },{
-  "text" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "text" : "Otra razón por la que nuestros cafés tienen un perfil de tueste medio es para disminuir que el gas atrapado dentro del grano acelere su salida e incremente la porosidad del grano con lo que aumenta la salida de los aceites a la superficie y con esto el riesgo de oxidación es mayor, lo cual ocurre con perfiles de tueste oscuros.",
   "class" : "normal",
-  "img" : "Coffee-Love.jpg",
+  "img" : "workstation.jpg",
   "title" : "All Types",
-  "alt": "Coffee-Love"
+  "alt": "workstation"
 },{
-  "text" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "text" : "Una vez que el café llega a nuestro tostadero, nos aseguramos de que todo ese esfuerzo se ve recompensado creando perfiles de tueste diferenciados para cada origen. ",
   "class" : "odd",
-  "img" : "happy-face.jpg",
+  "img" : "technology.jpg",
   "title" : "When Ever You Want",
-  "alt" : "happy-face"
+  "alt" : "technology"
 }]

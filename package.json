@@ -1,9 +1,11 @@
 {
   "name": "Custom-Page",
   "devDependencies": {
-    "http-server": "^0.9.0"
+    "http-server": "^0.9.0",
+    "node-sass": "^4.5.2"
   },
   "scripts": {
-  	"start": "http-server"
+    "start": "http-server",
+    "build-css": "node-sass --source-map style/css/main.css.map style/scss/main.scss style/css/main.css"
   }
 }

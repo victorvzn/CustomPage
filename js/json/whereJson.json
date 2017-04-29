@@ -1,19 +1,19 @@
 [{
-  "text" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "text" : "Tenemos colecciones y estilos diferentes en los que puedas sentirte identificado, artículos de diseño vanguardista, de gran calidad y siempre a buen precio.",
   "class" : "odd",
-  "img" : "happy-face.jpg",
-  "title" : "XXXXXXXXXXXXXXX",
-  "alt": "happy-face"
+  "img" : "coffee-4.jpg",
+  "title" : "Colecciones y estilos",
+  "alt": "coffee-4"
 },{
-  "text" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "text" : "Para atender a ambos mercados (particular y profesional) hemos apostado desde el principio por desarrollar nuestra actividad desde dos sociedades diferenciadas, pero que creen las sinergias necesarias para poder ofrecer siempre el mejor producto y el mejor servicio a nuestros clientes.",
   "class" : "normal",
-  "img" : "Coffee-Love.jpg",
-  "title" : "YYYYYYYYYYYYYYY",
-  "alt": "Coffee-Love"
+  "img" : "coffee-3.jpg",
+  "title" : "Particular y profesional",
+  "alt": "coffee-3"
 },{
-  "text" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "text" : "El buen hacer a lo largo de los años está siendo demandado por otras ciudades para poder disfrutar también de esta gran selección de productos..",
   "class" : "odd",
-  "img" : "happy-face.jpg",
-  "title" : "ZZZZZZZZZZZZZZ",
-  "alt": "happy-face"
+  "img" : "coffee-break.jpg",
+  "title" : "Bueno a lo largo de los años",
+  "alt": "coffee-break"
 }]
